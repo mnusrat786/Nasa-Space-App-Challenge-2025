@@ -15,7 +15,7 @@ streamlit run climate_emoji.py
 - ** Interactive Charts**: Real-time NASA data visualization
 - ** Analytics**: Climate trends and predictions
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Streamlit + Plotly + Pandas/NumPy
 
