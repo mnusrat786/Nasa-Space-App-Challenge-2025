@@ -1,0 +1,24 @@
+# Climate Emoji - NASA Space Apps Challenge 2025
+# Core dependencies for the Streamlit climate visualization app
+
+# Web Framework
+streamlit>=1.28.0
+
+# Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.15.0
+
+# Image Export (for saving charts)
+kaleido>=0.2.1
+
+# Date/Time handling
+python-dateutil>=2.8.0
+
+# HTTP requests (for data fetching)
+requests>=2.31.0
+
+# Optional: Enhanced performance
+numba>=0.57.0
